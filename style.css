@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #e6e6e6; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -24,7 +24,7 @@ p {
 
 #cv {
 	width: 90%;
-	max-width: 800px;
+	max-width: 1000px;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
@@ -114,18 +114,19 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	text-align: left;
+	width: 22%;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 77.5%;
 }
 
 .sectionTitle h1 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
-	font-size: 1.5em;
+	font-size: 1.8em;
 	color: #cf8a05;
 }
 
